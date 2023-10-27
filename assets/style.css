@@ -335,7 +335,7 @@ input:checked + .slider:before {
 }
 
 #title {
-	background-image: url('/assets/images/statue-of-liberty.jpg');
+	background-image: url('https://lilittorosyan.github.io/100-civics-questions-armenian/assets/images/statue-of-liberty.jpg');
 	background-size: cover; 
 	background-repeat: no-repeat; 
 	background-position: center;
@@ -348,7 +348,7 @@ input:checked + .slider:before {
 }
 
 #test-info {
-	background-image: url('/assets/images/monument-valley-navajo-tribal-park.jpg');
+	background-image: url('https://lilittorosyan.github.io/100-civics-questions-armenian/assets/images/monument-valley-navajo-tribal-park.jpg');
 	background-size: cover; 
 	background-repeat: no-repeat; 
 	background-position: right;
